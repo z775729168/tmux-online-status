@@ -13,7 +13,7 @@ offline_icon_osx="⛔️ "
 offline_icon_cygwin="X"
 offline_icon="❌ "
 ping_timeout_default="3"
-route_to_ping_default="cn.bing.com"
+route_to_ping_default="1.1.1.1"
 
 source $CURRENT_DIR/shared.sh
 
